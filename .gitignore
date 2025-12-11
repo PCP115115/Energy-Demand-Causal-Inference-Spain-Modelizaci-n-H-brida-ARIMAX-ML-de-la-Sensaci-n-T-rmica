@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --- SECCIÓN AÑADIDA PARA R ---
+
+# R History y Datos de sesión
+.Rhistory
+.RData
+.Ruserdata
+
+# Archivos de proyecto de RStudio
+.Rproj.user/
