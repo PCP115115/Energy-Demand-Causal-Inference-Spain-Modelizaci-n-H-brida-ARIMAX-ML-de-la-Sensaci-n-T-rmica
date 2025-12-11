@@ -1,0 +1,2 @@
+# Energy-Demand-Causal-Inference-Spain-Modelizaci-n-H-brida-ARIMAX-ML-de-la-Sensaci-n-T-rmica
+Este proyecto de investigación analiza la relación causal entre la sensación térmica y la demanda energética diaria en España (2021-2025). El estudio desafía el uso tradicional de la temperatura simple, aplicando técnicas de ML y DL junto a métodos de econometría clásica, proponiendo una nueva variable validada empíricamente midiendo estrés térmico
